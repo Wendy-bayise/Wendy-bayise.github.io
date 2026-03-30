@@ -3,6 +3,7 @@
 ## 📌 Objective
 As an IT professional with a good foundation in programming and data analysis, I am seeking an opportunity to contribute to data-driven projects. I am eager to apply coding skills, analytical techniques, and problem-solving abilities to develop innovative solutions that support business growth and efficiency.
 
+[![Click here to watch my interview video] (https://img.youtube.com/vi/njqiaMP6mRU/0.jpg)](https://youtu.be/njqiqMP6mRU) 
 ---
 
 ## 📞 Contact Details
