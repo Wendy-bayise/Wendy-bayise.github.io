@@ -9,8 +9,9 @@ As an IT professional with a good foundation in programming and data analysis, I
 ## 📞 Contact Details
 - 📧 Email: 222828978@mycput.ac.za  
 - 📱 Phone: (+27) 69 862 9262  
-- 📍 Address: 30 Thuthuzela Str, Milnerton, Cape Town, 7441  
-
+- 📍 Address: 30 Thuthuzela Str, Milnerton, Cape Town, 7441
+-    Github: github.com/Wendy-bayise
+-    LinkedIn: 
 ---
 
 ## 💼 Experience
