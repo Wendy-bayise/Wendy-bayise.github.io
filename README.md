@@ -47,7 +47,10 @@ Bosmansdam High School (2021)
 ### Technical
 - Java  
 - JavaScript  
-- Python  
+- Python
+- HTML
+- CSS
+- C#
 - SQL  
 
 ---
