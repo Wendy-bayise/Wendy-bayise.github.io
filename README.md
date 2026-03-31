@@ -81,7 +81,7 @@ Bosmansdam High School (2021)
 ## 📌 References
 
 **Cape Town Community College**  
-- Principal  
+- Principal 
 - 📱 078 717 6348  
 
 **Exact**  
