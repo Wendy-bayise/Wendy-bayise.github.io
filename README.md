@@ -11,7 +11,8 @@ As an IT professional with a good foundation in programming and data analysis, I
 - 📱 Phone: (+27) 69 862 9262  
 - 📍 Address: 30 Thuthuzela Str, Milnerton, Cape Town, 7441
 -    Github: github.com/Wendy-bayise
--    LinkedIn: 
+-    LinkedIn:
+ 
 ---
 
 ## 💼 Experience
