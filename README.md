@@ -97,8 +97,14 @@ I prepared by choosing the most suitable question for me and answering them usin
 I did that so i would sound natural when speaking instead of read off a paper 
 After completing the video was able to see where i need to work on, my communication, my body pasture and my confidence but was very pleased with my answers.
 
-### CV reflectiom
+### CV reflection
 The creation of this portfolio really help me in many aspects, we had  to build this portfolio using markdown.
 My reposiblitie waas to learn Markdown language on my own as it a language i was not familiar with but with determination my code came out beautifully and Iam super proud of myself.
 In order for me to be able to tackel this poject i had to break it down into small steps, i watched alot of tutorials and practiced basic markdown syntax.
 after all the tutorials and practice i was able to successfully build and deploy my portfolio.
+
+### Using Github pages
+As part of this assignment, I was required to publish my portfolio using GitHub Pages. The portfolio included my CV coded in Markdown and my mock interview.
+My task was to deploy my portfolio online using GitHub Pages and make sure that my CV and mock interview were accessible and displayed correctly.
+I created a GitHub repository and added my CV written in Markdown as well as the mock interview. I then enabled GitHub Pages to publish the site. During the process, I experienced challenges with getting the content to display correctly and ensuring updates reflected on the live site. I checked my commits, refreshed the page, and ensured everything was properly uploaded.
+In the end, I successfully published my portfolio and accessed it online. I gained a better understanding of how GitHub Pages works and how to deploy content. This experience improved my confidence in using GitHub and publishing work online.
