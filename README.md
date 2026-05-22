@@ -88,16 +88,16 @@ Bosmansdam High School (2021)
 - Manager  
 - 📱 081 591 1981  
 
-### Reflection
+## Reflections
 
-## Mock Video reflection
+### Mock Video reflection
 I had too record a mock interview video answering question about myself, my strenghts, weakness, and technical skills. 
 i had to present myslef professionally on camera, answer the questions.
 I prepared by choosing the most suitable question for me and answering them using the star method, i prepared by writimg the key pionts for each question,
 I did that so i would sound natural when speaking instead of read off a paper 
 After completing the video was able to see where i need to work on, my communication, my body pasture and my confidence but was very pleased with my answers.
 
-## CV reflectiom
+### CV reflectiom
 The creation of this portfolio really help me in many aspects, we had  to build this portfolio using markdown.
 My reposiblitie waas to learn Markdown language on my own as it a language i was not familiar with but with determination my code came out beautifully and Iam super proud of myself.
 In order for me to be able to tackel this poject i had to break it down into small steps, i watched alot of tutorials and practiced basic markdown syntax.
