@@ -91,6 +91,11 @@ Bosmansdam High School (2021)
 ### Reflection
 
 ## Mock Video reflection
+I had too record a mock interview video answering question about myself, my strenghts, weakness, and technical skills. 
+i had to present myslef professionally on camera, answer the questions.
+I prepared by choosing the most suitable question for me and answering them using the star method, i prepared by writimg the key pionts for each question,
+I did that so i would sound natural when speaking instead of read off a paper 
+After completing the video was able to see where i need to work on, my communication, my body pasture and my confidence but was very pleased with my answers.
 
 ## CV reflectiom
 The creation of this portfolio really help me in many aspects, we had  to build this portfolio using markdown.
